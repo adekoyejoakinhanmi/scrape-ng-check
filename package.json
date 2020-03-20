@@ -1,0 +1,12 @@
+{
+  "name": "ng-check-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "get-urls": "^9.2.0",
+    "puppeteer": "^2.1.1"
+  }
+}
